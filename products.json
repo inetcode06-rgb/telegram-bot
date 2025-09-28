@@ -1,0 +1,2187 @@
+{
+  "mahsulotlar": {
+    "yuz_parvarishi": [
+      {
+        "kod": "1004",
+        "nom": {
+          "en": "Whitening tonic-essence for face",
+          "ru": "Отбеливающий тоник-эссенция для лица"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1007",
+        "nom": {
+          "en": "Whitening eye cream",
+          "ru": "Отбеливающий крем для кожи вокруг глаз"
+        },
+        "hajm": 25,
+        "chegirma_narx": 63500,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "1008",
+        "nom": {
+          "en": "Cleansing foam vit E",
+          "ru": "Очищающая пенка для лица с витамином Е"
+        },
+        "hajm": 100,
+        "chegirma_narx": 50000,
+        "narx": 58000,
+        "ball": 4.5
+      },
+      {
+        "kod": "1021",
+        "nom": {
+          "en": "All in one cream",
+          "ru": "Крем для лица все в одном"
+        },
+        "hajm": 50,
+        "chegirma_narx": 50000,
+        "narx": 59000,
+        "ball": 4.5
+      },
+      {
+        "kod": "1023",
+        "nom": {
+          "en": "Peeling Gel lotion",
+          "ru": "Пилинг гель лосьон"
+        },
+        "hajm": 100,
+        "chegirma_narx": 75000,
+        "narx": 87000,
+        "ball": 6.2
+      },
+      {
+        "kod": "1026",
+        "nom": {
+          "en": "Whitening lotion-essence for face",
+          "ru": "Отбеливающий лосьон-эссенция для лица"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1028",
+        "nom": {
+          "en": "Wash OFF Pack",
+          "ru": "Глиняная маска для лица"
+        },
+        "hajm": 240,
+        "chegirma_narx": 66000,
+        "narx": 78000,
+        "ball": 5.2
+      },
+      {
+        "kod": "1030",
+        "nom": {
+          "en": "Sun cream",
+          "ru": "Солнцезащитный крем для лица"
+        },
+        "hajm": 50,
+        "chegirma_narx": 86000,
+        "narx": 97000,
+        "ball": 7.2
+      },
+      {
+        "kod": "1033n",
+        "nom": {
+          "en": "Vitamin C Serum",
+          "ru": "Сыворотка с чистым витамином С"
+        },
+        "hajm": 30,
+        "chegirma_narx": 155000,
+        "narx": 180000,
+        "ball": 12.5
+      },
+      {
+        "kod": "1034",
+        "nom": {
+          "en": "Snail extract cream",
+          "ru": "Крем с экстрактом секрета улитки"
+        },
+        "hajm": 50,
+        "chegirma_narx": 95000,
+        "narx": 115000,
+        "ball": 9.0
+      },
+      {
+        "kod": "1034-01",
+        "nom": {
+          "en": "Snail extract cream",
+          "ru": "Крем с экстрактом секрета улитки"
+        },
+        "hajm": 60,
+        "chegirma_narx": 70000,
+        "narx": 80000,
+        "ball": 6.3
+      },
+      {
+        "kod": "1041",
+        "nom": {
+          "en": "Face scrub",
+          "ru": "Скраб для лица"
+        },
+        "hajm": 100,
+        "chegirma_narx": 50000,
+        "narx": 60000,
+        "ball": 4.5
+      },
+      {
+        "kod": "1042",
+        "nom": {
+          "en": "Synake peptide face cream",
+          "ru": "Крем для лица с пептидом Synake"
+        },
+        "hajm": 50,
+        "chegirma_narx": 110000,
+        "narx": 130000,
+        "ball": 10.0
+      },
+      {
+        "kod": "1042-01",
+        "nom": {
+          "en": "Synake peptide face cream",
+          "ru": "Крем для лица с пептидом Synake"
+        },
+        "hajm": 60,
+        "chegirma_narx": 75000,
+        "narx": 85000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1043",
+        "nom": {
+          "en": "Black Caviar eye cream",
+          "ru": "Крем для кожи вокруг глаз пептидом Synake"
+        },
+        "hajm": 25,
+        "chegirma_narx": 63500,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "1044",
+        "nom": {
+          "en": "Face Mist Aloe Soothing",
+          "ru": "Мист для лица Алое"
+        },
+        "hajm": 150,
+        "chegirma_narx": 42000,
+        "narx": 50000,
+        "ball": 3.8
+      },
+      {
+        "kod": "1045",
+        "nom": {
+          "en": "Aloe Vera Cleansing foam",
+          "ru": "Очищающая пенка для лица"
+        },
+        "hajm": 100,
+        "chegirma_narx": 50000,
+        "narx": 58000,
+        "ball": 4.5
+      },
+      {
+        "kod": "1047",
+        "nom": {
+          "en": "Cleansing water",
+          "ru": "Очищающая вода"
+        },
+        "hajm": 280,
+        "chegirma_narx": 29500,
+        "narx": 38000,
+        "ball": 2.5
+      },
+      {
+        "kod": "1048",
+        "nom": {
+          "en": "Massage Cream",
+          "ru": "Массажный крем для лица"
+        },
+        "hajm": 125,
+        "chegirma_narx": 45000,
+        "narx": 55000,
+        "ball": 4.0
+      },
+      {
+        "kod": "1048-25",
+        "nom": {
+          "en": "Massage Cream",
+          "ru": "Массажный крем для лица"
+        },
+        "hajm": 150,
+        "chegirma_narx": 58000,
+        "narx": 68000,
+        "ball": 4.7
+      },
+      {
+        "kod": "1049",
+        "nom": {
+          "en": "Whitening cleansing foam",
+          "ru": "Очищающая пенка для лица с отбеливающим эффектом"
+        },
+        "hajm": 100,
+        "chegirma_narx": 55000,
+        "narx": 64000,
+        "ball": 4.7
+      },
+      {
+        "kod": "1050",
+        "nom": {
+          "en": "Cleansing Foam with Snail Extract",
+          "ru": "Очищающая пенка для лица с экстрактом улитки"
+        },
+        "hajm": 100,
+        "chegirma_narx": 55000,
+        "narx": 64000,
+        "ball": 4.7
+      },
+      {
+        "kod": "1057",
+        "nom": {
+          "en": "Synake peptide eye cream",
+          "ru": "Крем для кожи вокруг глаз пептидом Synake"
+        },
+        "hajm": 25,
+        "chegirma_narx": 63500,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "1058",
+        "nom": {
+          "en": "Eye cream with snail extract",
+          "ru": "Крем для кожи вокруг глаз с экстрактом улитки"
+        },
+        "hajm": 25,
+        "chegirma_narx": 63500,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "1063",
+        "nom": {
+          "en": "Synake peptide face tonic",
+          "ru": "Тоник для лица с пептидом Synake"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1064",
+        "nom": {
+          "en": "Snail Moisturizing face tonic",
+          "ru": "Увлажняющий тоник для лица с экстрактом улитки"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1065",
+        "nom": {
+          "en": "Synake peptide Face lotion",
+          "ru": "Лосьон для лица с пептидом Sуnake"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1066",
+        "nom": {
+          "en": "Snail Moisturizing face lotion",
+          "ru": "Увлажняющий лосьон для лица с экстрактом улитки"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1072",
+        "nom": {
+          "en": "Whitening face cream",
+          "ru": "Осветляющий крем для лица"
+        },
+        "hajm": 50,
+        "chegirma_narx": 90000,
+        "narx": 105000,
+        "ball": 8.5
+      },
+      {
+        "kod": "1072-01",
+        "nom": {
+          "en": "Whitening face cream",
+          "ru": "Осветляющий крем для лица"
+        },
+        "hajm": 60,
+        "chegirma_narx": 75000,
+        "narx": 85000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1073",
+        "nom": {
+          "en": "Black Caviar cream",
+          "ru": "Крем для лица черная икра"
+        },
+        "hajm": 50,
+        "chegirma_narx": 105000,
+        "narx": 125000,
+        "ball": 9.5
+      },
+      {
+        "kod": "1073-01",
+        "nom": {
+          "en": "Black Caviar cream",
+          "ru": "Крем для лица черная икра"
+        },
+        "hajm": 60,
+        "chegirma_narx": 75000,
+        "narx": 85000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1074",
+        "nom": {
+          "en": "Tea tree cream",
+          "ru": "Крем для проблемной кожи лица"
+        },
+        "hajm": 50,
+        "chegirma_narx": 90000,
+        "narx": 110000,
+        "ball": 8.5
+      },
+      {
+        "kod": "1074-01",
+        "nom": {
+          "en": "Tea tree cream",
+          "ru": "Крем для проблемной кожи лица"
+        },
+        "hajm": 60,
+        "chegirma_narx": 65000,
+        "narx": 75000,
+        "ball": 6.0
+      },
+      {
+        "kod": "1075",
+        "nom": {
+          "en": "All in one Tonic",
+          "ru": "Тоник для лица все в одном"
+        },
+        "hajm": 200,
+        "chegirma_narx": 55000,
+        "narx": 65000,
+        "ball": 5.2
+      },
+      {
+        "kod": "1076",
+        "nom": {
+          "en": "All in one Lotion",
+          "ru": "Лосьон для лица все в одном"
+        },
+        "hajm": 200,
+        "chegirma_narx": 55000,
+        "narx": 65000,
+        "ball": 5.2
+      },
+      {
+        "kod": "1077",
+        "nom": {
+          "en": "All in one Cleansing gel",
+          "ru": "Очищающий гель для лица"
+        },
+        "hajm": 280,
+        "chegirma_narx": 58000,
+        "narx": 68000,
+        "ball": 4.8
+      },
+      {
+        "kod": "1078 n",
+        "nom": {
+          "en": "Pell of Pack",
+          "ru": "Пилинговая маска для лица"
+        },
+        "hajm": 100,
+        "chegirma_narx": 65000,
+        "narx": 75000,
+        "ball": 6.0
+      },
+      {
+        "kod": "1082",
+        "nom": {
+          "en": "Be Beauty Peeling gel",
+          "ru": "Пилинг гель"
+        },
+        "hajm": 60,
+        "chegirma_narx": 40000,
+        "narx": 50000,
+        "ball": 3.3
+      },
+      {
+        "kod": "1083",
+        "nom": {
+          "en": "Be Beauty Sun BB Crem №19, №21, №23",
+          "ru": "Солнцезащиный крем + бб"
+        },
+        "hajm": 50,
+        "chegirma_narx": 69000,
+        "narx": 81000,
+        "ball": 5.5
+      },
+      {
+        "kod": "1088",
+        "nom": {
+          "en": "All in one eye cream",
+          "ru": "Крем для кожи вокруг глаз все в одном"
+        },
+        "hajm": 25,
+        "chegirma_narx": 63500,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "1089",
+        "nom": {
+          "en": "Be Beauty Rose Tonic",
+          "ru": "Тоник для лица роза"
+        },
+        "hajm": 120,
+        "chegirma_narx": 35000,
+        "narx": 40000,
+        "ball": 3.2
+      },
+      {
+        "kod": "1090",
+        "nom": {
+          "en": "Be Beauty Rose Lotion",
+          "ru": "Лосьон для лица роза"
+        },
+        "hajm": 120,
+        "chegirma_narx": 35000,
+        "narx": 40000,
+        "ball": 3.2
+      },
+      {
+        "kod": "1091",
+        "nom": {
+          "en": "Be Beauty Rose face cream",
+          "ru": "Крем для лица роза"
+        },
+        "hajm": 50,
+        "chegirma_narx": 40000,
+        "narx": 45000,
+        "ball": 3.7
+      },
+      {
+        "kod": "1092",
+        "nom": {
+          "en": "Black Caviar tonic",
+          "ru": "Тоник для лица черная икра"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1093",
+        "nom": {
+          "en": "Black Caviar lotion",
+          "ru": "Лосьон для лица черная икра"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1094",
+        "nom": {
+          "en": "Hyaluronic Acid Skin Tonic",
+          "ru": "Тоник для лица гиалуроновый"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1095",
+        "nom": {
+          "en": "Hyaluronic Acid Skin Lotion",
+          "ru": "Лосьон для лица гиалуроновый"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1096",
+        "nom": {
+          "en": "Hyaluronic Acid face cream",
+          "ru": "Крем для лица гиалуроновый"
+        },
+        "hajm": 50,
+        "chegirma_narx": 90000,
+        "narx": 110000,
+        "ball": 8.5
+      },
+      {
+        "kod": "1096-01",
+        "nom": {
+          "en": "Hyaluronic Acid face cream",
+          "ru": "Крем для лица гиалуроновый"
+        },
+        "hajm": 60,
+        "chegirma_narx": 65000,
+        "narx": 75000,
+        "ball": 6.0
+      },
+      {
+        "kod": "1098",
+        "nom": {
+          "en": "Anti acne face tonic",
+          "ru": "Тоник для проблемной кожи лица"
+        },
+        "hajm": 200,
+        "chegirma_narx": 78000,
+        "narx": 88000,
+        "ball": 6.5
+      },
+      {
+        "kod": "1099",
+        "nom": {
+          "en": "Hyaluronic Acid eye cream",
+          "ru": "Крем для кожи вокруг глаз гиалуроновыйй"
+        },
+        "hajm": 25,
+        "chegirma_narx": 63500,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "1100",
+        "nom": {
+          "en": "Ginseng Mask",
+          "ru": "Маска Жень-Шень"
+        },
+        "hajm": 25,
+        "chegirma_narx": 13000,
+        "narx": 16000,
+        "ball": 1.1
+      },
+      {
+        "kod": "1101",
+        "nom": {
+          "en": "Retinol Mask (Anti-Aging)",
+          "ru": "Маска Retinol (Anti-Aging)"
+        },
+        "hajm": 25,
+        "chegirma_narx": 13000,
+        "narx": 16000,
+        "ball": 1.1
+      },
+      {
+        "kod": "1102",
+        "nom": {
+          "en": "MADECASSOL MASK",
+          "ru": "Маска MADECASSOL"
+        },
+        "hajm": 25,
+        "chegirma_narx": 13000,
+        "narx": 16000,
+        "ball": 1.1
+      },
+      {
+        "kod": "1103",
+        "nom": {
+          "en": "Arbutin-Niacinamide Mask",
+          "ru": "Маска Арбутин-Ниацинамид"
+        },
+        "hajm": 25,
+        "chegirma_narx": 13000,
+        "narx": 16000,
+        "ball": 1.1
+      },
+      {
+        "kod": "1104",
+        "nom": {
+          "en": "Ceramide-Hyaluron Mask",
+          "ru": "Маска Керамид-Гиалурон"
+        },
+        "hajm": 25,
+        "chegirma_narx": 13000,
+        "narx": 16000,
+        "ball": 1.1
+      },
+      {
+        "kod": "1105",
+        "nom": {
+          "en": "Marine Collagen Mask",
+          "ru": "Маска Морской коллаген"
+        },
+        "hajm": 20,
+        "chegirma_narx": 9500,
+        "narx": 11000,
+        "ball": 0.8
+      },
+      {
+        "kod": "1106",
+        "nom": {
+          "en": "Honey-Yogurt Mask",
+          "ru": "Маска Медово-Йогуртовая"
+        },
+        "hajm": 20,
+        "chegirma_narx": 9500,
+        "narx": 11000,
+        "ball": 0.8
+      },
+      {
+        "kod": "1107",
+        "nom": {
+          "en": "Vitamin C Mask",
+          "ru": "Маска Витамин С"
+        },
+        "hajm": 20,
+        "chegirma_narx": 9500,
+        "narx": 11000,
+        "ball": 0.8
+      },
+      {
+        "kod": "1108",
+        "nom": {
+          "en": "TEA TREE MASK",
+          "ru": "Маска ТЕА TREE"
+        },
+        "hajm": 20,
+        "chegirma_narx": 9500,
+        "narx": 11000,
+        "ball": 0.8
+      },
+      {
+        "kod": "1110",
+        "nom": {
+          "en": "Hyaluronic Acid essence",
+          "ru": "Увлажняющая сыворотка с гиалуроновой кислотой"
+        },
+        "hajm": 30,
+        "chegirma_narx": 140000,
+        "narx": 160000,
+        "ball": 11.0
+      },
+      {
+        "kod": "1112",
+        "nom": {
+          "en": "Whitening essence",
+          "ru": "Осветляющая сыворотка от Lacore с Arbutin"
+        },
+        "hajm": 30,
+        "chegirma_narx": 140000,
+        "narx": 160000,
+        "ball": 11.0
+      },
+      {
+        "kod": "1113",
+        "nom": {
+          "en": "Black caviar essence",
+          "ru": "Антивозрастная эссенция-сыворотка черная икра"
+        },
+        "hajm": 30,
+        "chegirma_narx": 140000,
+        "narx": 160000,
+        "ball": 11.0
+      },
+      {
+        "kod": "1114",
+        "nom": {
+          "en": "Snail essence",
+          "ru": "Эссенция-сыворотка с экстрактом Snail"
+        },
+        "hajm": 30,
+        "chegirma_narx": 140000,
+        "narx": 160000,
+        "ball": 11.0
+      },
+      {
+        "kod": "1115",
+        "nom": {
+          "en": "Synake essence",
+          "ru": "Эссенция-сыворотка с пептидом Synake"
+        },
+        "hajm": 30,
+        "chegirma_narx": 140000,
+        "narx": 160000,
+        "ball": 11.0
+      },
+      {
+        "kod": "1116",
+        "nom": {
+          "en": "Tea tree essenсе",
+          "ru": "Эссенция-сыворотка Чайное дерево"
+        },
+        "hajm": 30,
+        "chegirma_narx": 140000,
+        "narx": 160000,
+        "ball": 11.0
+      },
+      {
+        "kod": "1117",
+        "nom": {
+          "en": "Hyaluronic Acid cleansing",
+          "ru": "Очищающая пенка для лица с Гиалуроновой кислотой"
+        },
+        "hajm": 100,
+        "chegirma_narx": 55000,
+        "narx": 64000,
+        "ball": 4.7
+      },
+      {
+        "kod": "1118",
+        "nom": {
+          "en": "Black caviar cleansing",
+          "ru": "Очищающая пенка с пептидом и экстрактом Черной икры"
+        },
+        "hajm": 100,
+        "chegirma_narx": 55000,
+        "narx": 64000,
+        "ball": 4.7
+      },
+      {
+        "kod": "1119",
+        "nom": {
+          "en": "Tea tree Cleansing foam",
+          "ru": "Очищающая пенка для лица с экстрактом Чайного дерева"
+        },
+        "hajm": 100,
+        "chegirma_narx": 55000,
+        "narx": 64000,
+        "ball": 4.7
+      },
+      {
+        "kod": "1120",
+        "nom": {
+          "en": "Synake peptide Cleansing foaт",
+          "ru": "Очищающая пенка с пептидом Змеиного яда"
+        },
+        "hajm": 100,
+        "chegirma_narx": 55000,
+        "narx": 64000,
+        "ball": 4.7
+      },
+      {
+        "kod": "1156",
+        "nom": {
+          "en": "Vitamin E Serum",
+          "ru": "Сыворотка с витамином Е"
+        },
+        "hajm": 30,
+        "chegirma_narx": 155000,
+        "narx": 180000,
+        "ball": 12.5
+      }
+    ],
+    "soch_va_tana_parvarishi": [
+      {
+        "kod": "2002",
+        "nom": {
+          "en": "Body scrub",
+          "ru": "Скраб для тела"
+        },
+        "hajm": 280,
+        "chegirma_narx": 55000,
+        "narx": 68000,
+        "ball": 5.0
+      },
+      {
+        "kod": "2004",
+        "nom": {
+          "en": "Body cream with honey and shea butter",
+          "ru": "Крем для тела с мёдом и маслом ШИ"
+        },
+        "hajm": 280,
+        "chegirma_narx": 60000,
+        "narx": 75000,
+        "ball": 5.5
+      },
+      {
+        "kod": "2005",
+        "nom": {
+          "en": "WHG big",
+          "ru": "Гигиенический большой интим гель"
+        },
+        "hajm": 300,
+        "chegirma_narx": 62000,
+        "narx": 72000,
+        "ball": 5.5
+      },
+      {
+        "kod": "2006",
+        "nom": {
+          "en": "Family balsam",
+          "ru": "Бальзам для всей семьи"
+        },
+        "hajm": 500,
+        "chegirma_narx": 55000,
+        "narx": 65000,
+        "ball": 5.5
+      },
+      {
+        "kod": "2007",
+        "nom": {
+          "en": "Family body Gel",
+          "ru": "Гель для душа для всей семьи"
+        },
+        "hajm": 500,
+        "chegirma_narx": 50000,
+        "narx": 60000,
+        "ball": 4.5
+      },
+      {
+        "kod": "2008",
+        "nom": {
+          "en": "Shampoo Family",
+          "ru": "Шампунь для всей семьи"
+        },
+        "hajm": 500,
+        "chegirma_narx": 58000,
+        "narx": 68000,
+        "ball": 5.2
+      },
+      {
+        "kod": "2010",
+        "nom": {
+          "en": "Exfoliating cream",
+          "ru": "Отшелушивающий крем"
+        },
+        "hajm": 75,
+        "chegirma_narx": 40000,
+        "narx": 50000,
+        "ball": 3.8
+      },
+      {
+        "kod": "2019",
+        "nom": {
+          "en": "Chap revitalizing cream",
+          "ru": "Крем для лечения растяжек"
+        },
+        "hajm": 160,
+        "chegirma_narx": 60000,
+        "narx": 69000,
+        "ball": 6.0
+      },
+      {
+        "kod": "2020",
+        "nom": {
+          "en": "Slim body",
+          "ru": "Крем для похудения"
+        },
+        "hajm": 125,
+        "chegirma_narx": 50000,
+        "narx": 60000,
+        "ball": 4.5
+      },
+      {
+        "kod": "2033",
+        "nom": {
+          "en": "Aloe soothing gel",
+          "ru": "Алоэ смягчающий гель"
+        },
+        "hajm": 100,
+        "chegirma_narx": 45000,
+        "narx": 55000,
+        "ball": 3.5
+      },
+      {
+        "kod": "2033-24",
+        "nom": {
+          "en": "Aloe soothing gel",
+          "ru": "Алоэ смягчающий гель"
+        },
+        "hajm": 100,
+        "chegirma_narx": 37500,
+        "narx": 48000,
+        "ball": 2.9
+      },
+      {
+        "kod": "2034",
+        "nom": {
+          "en": "Shampoo Anti loosing",
+          "ru": "Шампунь против выпадения волос"
+        },
+        "hajm": 420,
+        "chegirma_narx": 63000,
+        "narx": 75000,
+        "ball": 4.9
+      },
+      {
+        "kod": "2035",
+        "nom": {
+          "en": "Shampoo Oily",
+          "ru": "Шампунь для жирных волос"
+        },
+        "hajm": 440,
+        "chegirma_narx": 55000,
+        "narx": 65000,
+        "ball": 4.3
+      },
+      {
+        "kod": "2036",
+        "nom": {
+          "en": "Shampoo Collagen vit Е",
+          "ru": "Шампунь коллаген с витамином Е"
+        },
+        "hajm": 440,
+        "chegirma_narx": 62000,
+        "narx": 72000,
+        "ball": 4.8
+      },
+      {
+        "kod": "2038",
+        "nom": {
+          "en": "Hair Scalp Spray",
+          "ru": "Спрей для кожи головы против выпадения волос"
+        },
+        "hajm": 100,
+        "chegirma_narx": 60000,
+        "narx": 72000,
+        "ball": 4.8
+      },
+      {
+        "kod": "2039",
+        "nom": {
+          "en": "Shampoo Scalp care",
+          "ru": "Шампунь для ухода за кожей головы"
+        },
+        "hajm": 280,
+        "chegirma_narx": 63000,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "2041",
+        "nom": {
+          "en": "Lavanda body gel",
+          "ru": "Гель для тела «Лаванда»"
+        },
+        "hajm": 280,
+        "chegirma_narx": 40000,
+        "narx": 48000,
+        "ball": 4.0
+      },
+      {
+        "kod": "2042",
+        "nom": {
+          "en": "Jasmin body gel",
+          "ru": "Гель для тела Жасмин"
+        },
+        "hajm": 280,
+        "chegirma_narx": 40000,
+        "narx": 48000,
+        "ball": 4.0
+      },
+      {
+        "kod": "2043",
+        "nom": {
+          "en": "Lily body gel",
+          "ru": "Гель для тела «Лилия»"
+        },
+        "hajm": 280,
+        "chegirma_narx": 40000,
+        "narx": 48000,
+        "ball": 4.0
+      },
+      {
+        "kod": "2045",
+        "nom": {
+          "en": "Hand cream with snail extract",
+          "ru": "Крем для рук с экстрактом секрета улитки."
+        },
+        "hajm": 75,
+        "chegirma_narx": 27000,
+        "narx": 33000,
+        "ball": 2.6
+      },
+      {
+        "kod": "2046",
+        "nom": {
+          "en": "Antiperspirant foot cream with snail extract",
+          "ru": "Крем для ног с антиперспирантом, с экстрактом секрета улитки."
+        },
+        "hajm": 75,
+        "chegirma_narx": 28000,
+        "narx": 35000,
+        "ball": 2.7
+      },
+      {
+        "kod": "2054",
+        "nom": {
+          "en": "Sport body spray",
+          "ru": "Спрей для тела Спорт"
+        },
+        "hajm": 165,
+        "chegirma_narx": 58000,
+        "narx": 68000,
+        "ball": 4.8
+      },
+      {
+        "kod": "2061",
+        "nom": {
+          "en": "Aloe body gel",
+          "ru": "Гель для тела Алоэ"
+        },
+        "hajm": 280,
+        "chegirma_narx": 40000,
+        "narx": 48000,
+        "ball": 4.0
+      },
+      {
+        "kod": "2065",
+        "nom": {
+          "en": "Green tea body gel",
+          "ru": "Гель для тела с Зеленым чаем"
+        },
+        "hajm": 280,
+        "chegirma_narx": 40000,
+        "narx": 48000,
+        "ball": 4.0
+      },
+      {
+        "kod": "2067",
+        "nom": {
+          "en": "Aloe liquid soap",
+          "ru": "Жидкое мыло Алоэ"
+        },
+        "hajm": 300,
+        "chegirma_narx": 28000,
+        "narx": 33000,
+        "ball": 2.7
+      },
+      {
+        "kod": "2068",
+        "nom": {
+          "en": "Aloe WHG",
+          "ru": "Алоэ интим гель"
+        },
+        "hajm": 160,
+        "chegirma_narx": 35000,
+        "narx": 44000,
+        "ball": 3.5
+      },
+      {
+        "kod": "2069",
+        "nom": {
+          "en": "Aloe body lotion",
+          "ru": "Лосьон для тела Алоэ"
+        },
+        "hajm": 280,
+        "chegirma_narx": 50000,
+        "narx": 58000,
+        "ball": 4.7
+      },
+      {
+        "kod": "2073",
+        "nom": {
+          "en": "Lavanda liquid soap",
+          "ru": "Жидкое мыло Лаванда"
+        },
+        "hajm": 300,
+        "chegirma_narx": 28000,
+        "narx": 33000,
+        "ball": 2.7
+      },
+      {
+        "kod": "2074",
+        "nom": {
+          "en": "Lavanda whg",
+          "ru": "Лаванда интим гель"
+        },
+        "hajm": 160,
+        "chegirma_narx": 35000,
+        "narx": 44000,
+        "ball": 3.5
+      },
+      {
+        "kod": "2075",
+        "nom": {
+          "en": "Lavanda body lotion",
+          "ru": "Лосьон для тела Лаванда"
+        },
+        "hajm": 280,
+        "chegirma_narx": 50000,
+        "narx": 58000,
+        "ball": 4.7
+      },
+      {
+        "kod": "2076",
+        "nom": {
+          "en": "Jasmin liquid soap",
+          "ru": "Жидкое мыло Жасмин"
+        },
+        "hajm": 300,
+        "chegirma_narx": 28000,
+        "narx": 33000,
+        "ball": 2.7
+      },
+      {
+        "kod": "2077",
+        "nom": {
+          "en": "Jasmin WHG",
+          "ru": "Жасмин интим гель"
+        },
+        "hajm": 160,
+        "chegirma_narx": 35000,
+        "narx": 44000,
+        "ball": 3.5
+      },
+      {
+        "kod": "2078",
+        "nom": {
+          "en": "Jasmin body lotion",
+          "ru": "Лосьон для тела Жасмин"
+        },
+        "hajm": 280,
+        "chegirma_narx": 50000,
+        "narx": 58000,
+        "ball": 4.7
+      },
+      {
+        "kod": "2079",
+        "nom": {
+          "en": "Lily liquid soaр",
+          "ru": "Жидкое мыло Лилия"
+        },
+        "hajm": 300,
+        "chegirma_narx": 28000,
+        "narx": 33000,
+        "ball": 2.7
+      },
+      {
+        "kod": "2080",
+        "nom": {
+          "en": "Lily WHG",
+          "ru": "Лилия интим гель"
+        },
+        "hajm": 160,
+        "chegirma_narx": 35000,
+        "narx": 44000,
+        "ball": 3.5
+      },
+      {
+        "kod": "2081",
+        "nom": {
+          "en": "Lily body lotion",
+          "ru": "Лосьон для тела Лилия"
+        },
+        "hajm": 280,
+        "chegirma_narx": 50000,
+        "narx": 58000,
+        "ball": 4.7
+      },
+      {
+        "kod": "2082",
+        "nom": {
+          "en": "Rose body gel",
+          "ru": "Гель для тела Роза"
+        },
+        "hajm": 280,
+        "chegirma_narx": 40000,
+        "narx": 48000,
+        "ball": 4.0
+      },
+      {
+        "kod": "2083",
+        "nom": {
+          "en": "Rose liquid soap",
+          "ru": "Жидкое мыло Роза"
+        },
+        "hajm": 300,
+        "chegirma_narx": 28000,
+        "narx": 33000,
+        "ball": 2.7
+      },
+      {
+        "kod": "2084",
+        "nom": {
+          "en": "Rose WHG",
+          "ru": "Роза интим гель"
+        },
+        "hajm": 160,
+        "chegirma_narx": 35000,
+        "narx": 44000,
+        "ball": 3.5
+      },
+      {
+        "kod": "2085",
+        "nom": {
+          "en": "Rose body lotion",
+          "ru": "Лосьон для тела Роза"
+        },
+        "hajm": 280,
+        "chegirma_narx": 50000,
+        "narx": 58000,
+        "ball": 4.7
+      },
+      {
+        "kod": "2086",
+        "nom": {
+          "en": "Green tea liquid soap",
+          "ru": "Жидкое мыло с зеленым чаем"
+        },
+        "hajm": 300,
+        "chegirma_narx": 28000,
+        "narx": 33000,
+        "ball": 2.7
+      },
+      {
+        "kod": "2087",
+        "nom": {
+          "en": "Green tea WHG",
+          "ru": "Зеленый чай интим гель"
+        },
+        "hajm": 160,
+        "chegirma_narx": 35000,
+        "narx": 44000,
+        "ball": 3.5
+      },
+      {
+        "kod": "2088",
+        "nom": {
+          "en": "Green tea body lotion",
+          "ru": "Лосьон для тела с зеленым чаем"
+        },
+        "hajm": 280,
+        "chegirma_narx": 50000,
+        "narx": 58000,
+        "ball": 4.7
+      },
+      {
+        "kod": "2090",
+        "nom": {
+          "en": "Be Beauty Hand Cream",
+          "ru": "Be Beauty крем для рук"
+        },
+        "hajm": 65,
+        "chegirma_narx": 19500,
+        "narx": 22500,
+        "ball": 1.7
+      },
+      {
+        "kod": "2091",
+        "nom": {
+          "en": "Be Beauty foot Cream",
+          "ru": "Be Beauty крем для ног"
+        },
+        "hajm": 65,
+        "chegirma_narx": 20500,
+        "narx": 24000,
+        "ball": 1.8
+      },
+      {
+        "kod": "2099n",
+        "nom": {
+          "en": "Defilation creaт",
+          "ru": "Крем для депиляции"
+        },
+        "hajm": 125,
+        "chegirma_narx": 38000,
+        "narx": 48000,
+        "ball": 3.2
+      },
+      {
+        "kod": "2100",
+        "nom": {
+          "en": "Pheromone Body Gel",
+          "ru": "Феромоновый гель для тела"
+        },
+        "hajm": 280,
+        "chegirma_narx": 48000,
+        "narx": 58000,
+        "ball": 4.3
+      },
+      {
+        "kod": "2101",
+        "nom": {
+          "en": "Pheromone hand and Body Lotion",
+          "ru": "Лосьон для рук и тела с феромонами"
+        },
+        "hajm": 280,
+        "chegirma_narx": 55000,
+        "narx": 62000,
+        "ball": 4.8
+      },
+      {
+        "kod": "2102",
+        "nom": {
+          "en": "Pheromone WHG",
+          "ru": "Феромон интим гель"
+        },
+        "hajm": 160,
+        "chegirma_narx": 42000,
+        "narx": 50000,
+        "ball": 3.8
+      },
+      {
+        "kod": "2106",
+        "nom": {
+          "en": "Spray Mystery Style",
+          "ru": "Спрей для тела Mystery Style"
+        },
+        "hajm": 165,
+        "chegirma_narx": 65000,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "2107",
+        "nom": {
+          "en": "Spray Mystery Gracia",
+          "ru": "Спрей для тела Mystery Gracia"
+        },
+        "hajm": 165,
+        "chegirma_narx": 65000,
+        "narx": 75000,
+        "ball": 5.0
+      },
+      {
+        "kod": "2127 n",
+        "nom": {
+          "en": "Body spray Pink Diamond",
+          "ru": "Спрей для тела Pink Diamond"
+        },
+        "hajm": 165,
+        "chegirma_narx": 65000,
+        "narx": 75000,
+        "ball": 5.0
+      }
+    ],
+    "dekorativ_kosmetika": [
+      {
+        "kod": "3001",
+        "nom": {
+          "en": "Make up base pink",
+          "ru": "База под макияж розовая"
+        },
+        "hajm": 45,
+        "chegirma_narx": 57000,
+        "narx": 68000,
+        "ball": 4.5
+      },
+      {
+        "kod": "3002",
+        "nom": {
+          "en": "Make up base green",
+          "ru": "База под макияж зеленая"
+        },
+        "hajm": 45,
+        "chegirma_narx": 57000,
+        "narx": 68000,
+        "ball": 4.5
+      },
+      {
+        "kod": "3035",
+        "nom": {
+          "en": "Lacore BB cream №19, №21, №23",
+          "ru": "ББ крем"
+        },
+        "hajm": 50,
+        "chegirma_narx": 82000,
+        "narx": 94000,
+        "ball": 7.0
+      },
+      {
+        "kod": "3036",
+        "nom": {
+          "en": "CC cream 5in1",
+          "ru": "Сс тональный крем 5в1"
+        },
+        "hajm": 50,
+        "chegirma_narx": 75000,
+        "narx": 85000,
+        "ball": 7.0
+      },
+      {
+        "kod": "3038",
+        "nom": {
+          "en": "Lip eye remover",
+          "ru": "Двухфазовая жидкость для снятия макияжа"
+        },
+        "hajm": 120,
+        "chegirma_narx": 35000,
+        "narx": 41500,
+        "ball": 3.5
+      },
+      {
+        "kod": "3070",
+        "nom": {
+          "en": "Long Lashing Mascara",
+          "ru": "Тушь с удленяющ. эффектом"
+        },
+        "hajm": 12,
+        "chegirma_narx": 70000,
+        "narx": 82000,
+        "ball": 6.0
+      },
+      {
+        "kod": "3071",
+        "nom": {
+          "en": "Lang Lash Maskara 5in1",
+          "ru": "Lang Lash Тушь 5в1"
+        },
+        "hajm": 12,
+        "chegirma_narx": 70000,
+        "narx": 82000,
+        "ball": 6.0
+      },
+      {
+        "kod": "3074",
+        "nom": {
+          "en": "Eye liner",
+          "ru": "Подводка"
+        },
+        "hajm": 5,
+        "chegirma_narx": 50000,
+        "narx": 62000,
+        "ball": 4.0
+      },
+      {
+        "kod": "3076",
+        "nom": {
+          "en": "Lip steak",
+          "ru": "Губная помада"
+        },
+        "hajm": 4,
+        "chegirma_narx": 48000,
+        "narx": 56000,
+        "ball": 4.0
+      },
+      {
+        "kod": "3094",
+        "nom": {
+          "en": "Two Way Cake 21",
+          "ru": "Пудра"
+        },
+        "hajm": 25,
+        "chegirma_narx": 97000,
+        "narx": 110000,
+        "ball": 7.8
+      }
+    ],
+    "bolalar_uchun": [
+      {
+        "kod": "4100",
+        "nom": {
+          "en": "Baby shampoo & gel",
+          "ru": "Детский шампунь и гель"
+        },
+        "hajm": 300,
+        "chegirma_narx": 55000,
+        "narx": 65000,
+        "ball": 4.7
+      },
+      {
+        "kod": "4101",
+        "nom": {
+          "en": "Baby lotion",
+          "ru": "Детский лосьон"
+        },
+        "hajm": 300,
+        "chegirma_narx": 55000,
+        "narx": 65000,
+        "ball": 4.7
+      },
+      {
+        "kod": "4102",
+        "nom": {
+          "en": "Baby oil",
+          "ru": "Детское масло"
+        },
+        "hajm": 300,
+        "chegirma_narx": 55000,
+        "narx": 65000,
+        "ball": 4.7
+      }
+    ],
+    "ogiz_boshligi_gigiyenasi": [
+      {
+        "kod": "5000",
+        "nom": {
+          "en": "Toothpaste \"GOLD\"",
+          "ru": "Зубная паста \"GOLD\""
+        },
+        "hajm": 100,
+        "chegirma_narx": 28000,
+        "narx": 36000,
+        "ball": 2.3
+      },
+      {
+        "kod": "5001",
+        "nom": {
+          "en": "Toothpaste \"Whitening\"",
+          "ru": "Зубная паста «Отбеливающая»"
+        },
+        "hajm": 100,
+        "chegirma_narx": 24000,
+        "narx": 32000,
+        "ball": 2.0
+      },
+      {
+        "kod": "5002",
+        "nom": {
+          "en": "Health toothpaste",
+          "ru": "Здоровая зубная паста"
+        },
+        "hajm": 100,
+        "chegirma_narx": 20000,
+        "narx": 26000,
+        "ball": 1.5
+      },
+      {
+        "kod": "5003",
+        "nom": {
+          "en": "Antibacterial toothpaste",
+          "ru": "Антибактериальная зубная паста"
+        },
+        "hajm": 100,
+        "chegirma_narx": 20000,
+        "narx": 26000,
+        "ball": 1.5
+      }
+    ],
+    "toza_uy": [
+      {
+        "kod": "6000",
+        "nom": {
+          "en": "Fabric softener pink",
+          "ru": "Кондиционер для белья розовый"
+        },
+        "hajm": 1000,
+        "chegirma_narx": 47000,
+        "narx": 58000,
+        "ball": 2.5
+      },
+      {
+        "kod": "6001",
+        "nom": {
+          "en": "Fabric softener blue",
+          "ru": "Кондиционер для белья синий"
+        },
+        "hajm": 1000,
+        "chegirma_narx": 47000,
+        "narx": 58000,
+        "ball": 2.5
+      },
+      {
+        "kod": "6002",
+        "nom": {
+          "en": "Fabric softener yellow",
+          "ru": "Кондиционер для белья желтый"
+        },
+        "hajm": 1000,
+        "chegirma_narx": 47000,
+        "narx": 58000,
+        "ball": 2.5
+      },
+      {
+        "kod": "6005",
+        "nom": {
+          "en": "Liquid Detergent",
+          "ru": "Жидкий порошок"
+        },
+        "hajm": 1000,
+        "chegirma_narx": 62000,
+        "narx": 74000,
+        "ball": 3.4
+      },
+      {
+        "kod": "6006",
+        "nom": {
+          "en": "Kitchen Cleaner",
+          "ru": "Очиститель кухни"
+        },
+        "hajm": 600,
+        "chegirma_narx": 25000,
+        "narx": 34000,
+        "ball": 1.4
+      },
+      {
+        "kod": "6007",
+        "nom": {
+          "en": "Bathroom cleaner",
+          "ru": "Очиститель ванной комнаты"
+        },
+        "hajm": 600,
+        "chegirma_narx": 25000,
+        "narx": 34000,
+        "ball": 1.4
+      },
+      {
+        "kod": "6008",
+        "nom": {
+          "en": "Multi Cleaner",
+          "ru": "Мульти очиститель"
+        },
+        "hajm": 600,
+        "chegirma_narx": 27000,
+        "narx": 36000,
+        "ball": 1.5
+      },
+      {
+        "kod": "6009",
+        "nom": {
+          "en": "Dishwash Detergent",
+          "ru": "Средство для мытья посуды"
+        },
+        "hajm": 450,
+        "chegirma_narx": 21500,
+        "narx": 28000,
+        "ball": 1.2
+      }
+    ],
+    "parfyumeriya": [
+      {
+        "kod": "8019",
+        "nom": {
+          "en": "Parfume Mystery Style",
+          "ru": "Парфюм Style"
+        },
+        "hajm": 50,
+        "chegirma_narx": 185000,
+        "narx": 210000,
+        "ball": 15.0
+      },
+      {
+        "kod": "8021",
+        "nom": {
+          "en": "Parfume Mystary Grasia",
+          "ru": "Парфюм Grasia"
+        },
+        "hajm": 50,
+        "chegirma_narx": 185000,
+        "narx": 210000,
+        "ball": 15.0
+      },
+      {
+        "kod": "8022",
+        "nom": {
+          "en": "Parfume Mystery Deseo",
+          "ru": "Парфюм Deseo"
+        },
+        "hajm": 50,
+        "chegirma_narx": 185000,
+        "narx": 210000,
+        "ball": 15.0
+      },
+      {
+        "kod": "8024",
+        "nom": {
+          "en": "Men Perfume Sport",
+          "ru": "Мужские духи Спорт"
+        },
+        "hajm": 50,
+        "chegirma_narx": 160000,
+        "narx": 180000,
+        "ball": 13.0
+      },
+      {
+        "kod": "8027",
+        "nom": {
+          "en": "New Perfume Diamond",
+          "ru": "Парфюм Diamond"
+        },
+        "hajm": 50,
+        "chegirma_narx": 185000,
+        "narx": 210000,
+        "ball": 15.0
+      }
+    ],
+    "probniklar": [
+      {
+        "kod": "8019n",
+        "nom": {
+          "en": "Sample Mystery Style",
+          "ru": "Пробник парфюма Style"
+        },
+        "hajm": 5,
+        "chegirma_narx": 13500,
+        "narx": 15000,
+        "ball": 0.8
+      },
+      {
+        "kod": "8021n",
+        "nom": {
+          "en": "Sample Mystary Gracia",
+          "ru": "Пробник парфюма Gracia"
+        },
+        "hajm": 5,
+        "chegirma_narx": 13500,
+        "narx": 15000,
+        "ball": 0.8
+      },
+      {
+        "kod": "8022n",
+        "nom": {
+          "en": "Sample Mystery Deseo",
+          "ru": "Пробник парфюма Deseo"
+        },
+        "hajm": 5,
+        "chegirma_narx": 13500,
+        "narx": 15000,
+        "ball": 0.8
+      },
+      {
+        "kod": "9000n",
+        "nom": {
+          "en": "Sample cleansing foam",
+          "ru": "Пробник пенка для умывания"
+        },
+        "hajm": 20,
+        "chegirma_narx": 11000,
+        "narx": 13000,
+        "ball": 0.8
+      },
+      {
+        "kod": "9001n",
+        "nom": {
+          "en": "Sample snail cream",
+          "ru": "Пробник крем улитка"
+        },
+        "hajm": 8,
+        "chegirma_narx": 13000,
+        "narx": 15000,
+        "ball": 1.0
+      },
+      {
+        "kod": "9002n",
+        "nom": {
+          "en": "Sample whitening cream",
+          "ru": "Пробник крем отбеливающий"
+        },
+        "hajm": 8,
+        "chegirma_narx": 13000,
+        "narx": 15000,
+        "ball": 1.0
+      },
+      {
+        "kod": "9003n",
+        "nom": {
+          "en": "Sample synake cream",
+          "ru": "Пробник Synake крем"
+        },
+        "hajm": 8,
+        "chegirma_narx": 13000,
+        "narx": 15000,
+        "ball": 1.0
+      },
+      {
+        "kod": "9004n",
+        "nom": {
+          "en": "Sample peeling gel",
+          "ru": "Пробник пилинг-гель"
+        },
+        "hajm": 20,
+        "chegirma_narx": 16000,
+        "narx": 18000,
+        "ball": 1.2
+      },
+      {
+        "kod": "9007n",
+        "nom": {
+          "en": "Sample bb cream",
+          "ru": "Пробник ББ тональный крем"
+        },
+        "hajm": 8,
+        "chegirma_narx": 14000,
+        "narx": 16000,
+        "ball": 1.1
+      },
+      {
+        "kod": "9008n",
+        "nom": {
+          "en": "Sample Cleansing Foam with Snail Extract",
+          "ru": "Пробник очищающая пенка с экстрактом улитки"
+        },
+        "hajm": 20,
+        "chegirma_narx": 12000,
+        "narx": 14000,
+        "ball": 0.9
+      },
+      {
+        "kod": "9009n",
+        "nom": {
+          "en": "Sample Black caviar cream",
+          "ru": "Пробник крем Черная икра"
+        },
+        "hajm": 8,
+        "chegirma_narx": 13000,
+        "narx": 15000,
+        "ball": 1.0
+      },
+      {
+        "kod": "9010n",
+        "nom": {
+          "en": "Sample Massage Cream",
+          "ru": "Пробник массажный крем"
+        },
+        "hajm": 20,
+        "chegirma_narx": 8000,
+        "narx": 9000,
+        "ball": 0.6
+      },
+      {
+        "kod": "9012n",
+        "nom": {
+          "en": "Sample Wash OFF Pack",
+          "ru": "Пробник глинная маска"
+        },
+        "hajm": 20,
+        "chegirma_narx": 6000,
+        "narx": 7000,
+        "ball": 0.5
+      },
+      {
+        "kod": "9013n",
+        "nom": {
+          "en": "Sample CC foundation",
+          "ru": "Пробник СС тональный крем"
+        },
+        "hajm": 8,
+        "chegirma_narx": 14000,
+        "narx": 16000,
+        "ball": 1.1
+      },
+      {
+        "kod": "9014",
+        "nom": {
+          "en": "Sample Anti loosing shampoo",
+          "ru": "Пробник шампунь против выпадение волос"
+        },
+        "hajm": 40,
+        "chegirma_narx": 7000,
+        "narx": 8000,
+        "ball": 0.5
+      },
+      {
+        "kod": "9015",
+        "nom": {
+          "en": "Sample Family balsam",
+          "ru": "Пробник Семейный бальзам"
+        },
+        "hajm": 40,
+        "chegirma_narx": 5500,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9016",
+        "nom": {
+          "en": "Sample Family body Gel",
+          "ru": "Пробник Family Гель для тела"
+        },
+        "hajm": 40,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9017",
+        "nom": {
+          "en": "Sample Family Shampoo",
+          "ru": "Пробник семейного шампуня"
+        },
+        "hajm": 40,
+        "chegirma_narx": 5500,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9018",
+        "nom": {
+          "en": "Sample WHG",
+          "ru": "Пробник Интим Гель"
+        },
+        "hajm": 40,
+        "chegirma_narx": 9000,
+        "narx": 10000,
+        "ball": 0.7
+      },
+      {
+        "kod": "9019n",
+        "nom": {
+          "en": "Sample Tea tree cleasing foaт",
+          "ru": "Пробник Чайное дерево очищающая пенка"
+        },
+        "hajm": 20,
+        "chegirma_narx": 12000,
+        "narx": 14000,
+        "ball": 0.9
+      },
+      {
+        "kod": "9020n",
+        "nom": {
+          "en": "Sample Whitening cleansing foam",
+          "ru": "Пробник Отбеливающая очищающая пенка"
+        },
+        "hajm": 20,
+        "chegirma_narx": 12000,
+        "narx": 14000,
+        "ball": 0.9
+      },
+      {
+        "kod": "9021n",
+        "nom": {
+          "en": "Sample Hyaluronic Acid cleansing foam",
+          "ru": "Пробник Очищающий пенка с гиалуроновой кислотой"
+        },
+        "hajm": 20,
+        "chegirma_narx": 12000,
+        "narx": 14000,
+        "ball": 0.9
+      },
+      {
+        "kod": "9022n",
+        "nom": {
+          "en": "Sample Synake peptide cleansing foam",
+          "ru": "Пробник Synake с пептидами очищающая пенка"
+        },
+        "hajm": 20,
+        "chegirma_narx": 12000,
+        "narx": 14000,
+        "ball": 0.9
+      },
+      {
+        "kod": "9023n",
+        "nom": {
+          "en": "Sample Black caviar cleansing",
+          "ru": "Пробник очищающая пенка с Чёрной икрой"
+        },
+        "hajm": 20,
+        "chegirma_narx": 12000,
+        "narx": 14000,
+        "ball": 0.9
+      },
+      {
+        "kod": "9024n",
+        "nom": {
+          "en": "Sample Aloe cleasing foam",
+          "ru": "Пробник очищающая пенка с экстрактом Алое Вера"
+        },
+        "hajm": 20,
+        "chegirma_narx": 11000,
+        "narx": 13000,
+        "ball": 0.8
+      },
+      {
+        "kod": "9025n",
+        "nom": {
+          "en": "Sample Hyaluronic Acid creaт",
+          "ru": "Пробник Крем с гиалуроновой кислотой"
+        },
+        "hajm": 8,
+        "chegirma_narx": 13000,
+        "narx": 15000,
+        "ball": 1.0
+      },
+      {
+        "kod": "9026",
+        "nom": {
+          "en": "Sample Hyaluronic Acid tonic",
+          "ru": "Пробник с гиалуроновой кислотой тоник"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9027",
+        "nom": {
+          "en": "Sample Hyaluronic Acid lotion",
+          "ru": "Пробник лосьона с гиалуроновой кислотой"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9028",
+        "nom": {
+          "en": "Sample Whitening cleansing tonic",
+          "ru": "Пробник тоник Отбеливающий"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9029",
+        "nom": {
+          "en": "Sample Whitening cleansing lotion",
+          "ru": "Пробник лосьон Отбеливающий"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9030",
+        "nom": {
+          "en": "Sample Snail Moisturizing face tonic",
+          "ru": "Пробник тоник для лица с экстрактом улитки"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9031",
+        "nom": {
+          "en": "Sample Snail Moisturizing face lotion",
+          "ru": "Пробник лосьон для лица с экстрактом улитки"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9032",
+        "nom": {
+          "en": "Sample Black caviar tonic",
+          "ru": "Пробник Тоник с черной икрой"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9033",
+        "nom": {
+          "en": "Sample Black caviar lotion",
+          "ru": "Пробник Лосьон с черной икрой"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9034",
+        "nom": {
+          "en": "Sample Synake peptide tonic",
+          "ru": "Пробник тоник пептидом Synake"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9035",
+        "nom": {
+          "en": "Sample Synake peptide lotion",
+          "ru": "Пробник лосьон с пептидом Synake"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9036",
+        "nom": {
+          "en": "Sample Tea tree tonic",
+          "ru": "Пробник тоник Чайное дерево"
+        },
+        "hajm": 12,
+        "chegirma_narx": 5000,
+        "narx": 6000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9040",
+        "nom": {
+          "en": "Sample Cleasing gel",
+          "ru": "Пробник Очищающий гель"
+        },
+        "hajm": 25,
+        "chegirma_narx": 4500,
+        "narx": 5000,
+        "ball": 0.4
+      },
+      {
+        "kod": "9041",
+        "nom": {
+          "en": "Sample Tea tree cream",
+          "ru": "Пробник крем Чайное дерево"
+        },
+        "hajm": 8,
+        "chegirma_narx": 13000,
+        "narx": 15000,
+        "ball": 1.0
+      },
+      {
+        "kod": "9042",
+        "nom": {
+          "en": "Sample Collagen Shampoo",
+          "ru": "Пробник шампунь коллаген"
+        },
+        "hajm": 40,
+        "chegirma_narx": 7000,
+        "narx": 8000,
+        "ball": 0.5
+      },
+      {
+        "kod": "9043",
+        "nom": {
+          "en": "Sample Oily Shampoo",
+          "ru": "Пробник шампунь для жирных волос"
+        },
+        "hajm": 40,
+        "chegirma_narx": 6000,
+        "narx": 7000,
+        "ball": 0.5
+      },
+      {
+        "kod": "9044",
+        "nom": {
+          "en": "Sample Hair Scalp Shampoo",
+          "ru": "Пробник шампунь для ухода за кожей головы"
+        },
+        "hajm": 40,
+        "chegirma_narx": 10000,
+        "narx": 11000,
+        "ball": 0.8
+      },
+      {
+        "kod": "9045",
+        "nom": {
+          "en": "Sample scrub for face",
+          "ru": "Пробник скраб для лица"
+        },
+        "hajm": 20,
+        "chegirma_narx": 11000,
+        "narx": 13000,
+        "ball": 0.8
+      }
+    ]
+  }
+}
